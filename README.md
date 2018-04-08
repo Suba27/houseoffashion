@@ -11,10 +11,10 @@ This is an implementation for a E Commerce website which will display large numb
 5. Photos of products are stored in images folder and file path is stored in the database rather than storing image as blob type in the database. This is due to increase the website speed. 
   
 Technologies used:
-Symfony 3.4 - PHP MVC Framework
-jQuery 
-Bootstrap - CSS Framework
-JavaScript
-HTML5
-AJAX Methodology
+Symfony 3.4 - PHP MVC Framework,
+jQuery,
+Bootstrap - CSS Framework,
+JavaScript,
+HTML5,
+AJAX Methodology,
 MySQL
